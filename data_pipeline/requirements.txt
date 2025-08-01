@@ -1,0 +1,8 @@
+feedparser
+requests
+minio
+pandas
+chromadb
+tqdm
+sentence-transformers
+torch
